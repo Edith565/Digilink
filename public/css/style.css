@@ -52,8 +52,8 @@ ul, ol {
 }
 ul, ol {
 	padding: 0;
-	webkit-padding: 0;
-	moz-padding: 0;
+	/*webkit-padding: 0;
+	moz-padding: 0;*/
 }
 hr {
 	height: 2px;
@@ -155,8 +155,8 @@ hr {
 	font-family: 'Raleway', sans-serif;
 	text-transform: uppercase;
 	color: #fff;
-	background-color: #5ca9fb;
-	background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+	background-color: #e2311a;
+	background-image: linear-gradient(to right, #e2311a 0%, #e2311a 100%);
 	padding: 14px 34px;
 	letter-spacing: 1px;
 	margin: 0;
@@ -169,7 +169,7 @@ hr {
 .btn-custom:hover, .btn-custom:focus, .btn-custom.focus, .btn-custom:active, .btn-custom.active {
 	color: #fff;
 	background-image: none;
-	background-color: #6372ff;
+	background-color: #020202;
 }
 .btn:active, .btn.active {
 	background-image: none;
@@ -367,7 +367,7 @@ header .intro-text {
 }
 .hover-bg:hover .hover-text>h4 {
 	opacity: 1;
-	-webkit-backface-visibility: hidden;
+	/*-webkit-backface-visibility: hidden;*/
 	-webkit-transform: translateY(0);
 	transform: translateY(0);
 }
