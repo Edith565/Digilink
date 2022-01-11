@@ -226,7 +226,40 @@ header .intro-text {
 #features {
 	padding: 100px 0;
 	background: #f6f6f6;
+
+
 }
+
+#ficons {
+
+	position: relative;
+	animation: ficons 0.5s infinite;
+
+	 /* animation-iteration-count: 3; */
+	animation-timing-function: ease-in-out;
+	animation-direction: reverse;  
+}
+@keyframes ficons {
+	from {left: 0px;top: 0px;}
+	to {left: 0px;top:200px;}
+  }
+
+#featurestitle {
+
+	position: relative;
+	animation: mymove 5s infinite;
+	animation-timing-function: ease-in-out;
+}
+
+@keyframes mymove {
+	from {left: 0px;}
+	to {left: 30px;}
+  }
+/* @keyframes features {
+	from {top: 0px;}
+	to {top: 200px; }
+  } */
+
 #features i.fa {
 	font-size: 38px;
 	margin-bottom: 20px;
