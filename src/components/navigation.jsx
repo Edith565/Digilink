@@ -15,8 +15,8 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
-            React Landing Page
+          <a className='navbar-brand page-scroll' href='#page-top' style={{color:"red"}}>
+            DIGILINK LIMITED
           </a>{' '}
         </div>
 
@@ -26,8 +26,8 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a href='#features' className='page-scroll'>
-                Features
+              <a href='#casestudies' className='page-scroll'>
+                Case Studies
               </a>
             </li>
             <li>

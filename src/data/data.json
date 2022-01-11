@@ -1,21 +1,25 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Custom Web Design Company ",
+    "paragraph": "Engineering Websites For Superior Performance."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "   Dedicated Industry Experts With Proven Track Records The Team You Want On Your Project. We Partner With Our Clients To Drive Results ExpertTeam MembersResults-DrivenProactive Approach StreamlinedExecution",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "  Expert Team Members",
+     
+      " Drive Results Expert  ",
+   
+      "Driven Proactive Approach",
+      "Streamlined Execution"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "  Expert Team Members",
+     
+      " Drive Results Expert  ",
+   
+      "Driven roactive Approach",
+      "Streamlined Execution"
     ]
   },
   "Gallery": [
@@ -68,8 +72,8 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Branding and digital strategies",
+      "text": " From developing your brand identity, to planning your messaging and visual identity, this strategy helps you to increase engagement and ensure brand consistency across channels"
     },
     {
       "icon": "fa fa-cart-arrow-down",
@@ -159,10 +163,10 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
+  "CaseStudies": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
+      "title": "We value what we create for our clients",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {

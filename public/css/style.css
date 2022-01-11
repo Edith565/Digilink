@@ -244,11 +244,11 @@ header .intro-text {
   padding-bottom: 200px;
   text-align: center;
 }
-/* Features Section */
-#features {
+/* Case Studies Section */
+#CaseSudies {
   background: #f6f6f6;
 }
-#features i.fa {
+#CaseStudies i.fa {
   font-size: 38px;
   margin-bottom: 20px;
   transition: all 0.5s;
@@ -257,8 +257,8 @@ header .intro-text {
   height: 100px;
   padding: 30px 0;
   border-radius: 50%;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+  background: linear-gradient(to right, #882c20 0%, #882f1f 100%);
+  box-shadow: 10px 10px 10px rgba(100, 42, 42, 0.05);
 }
 /* About Section */
 #about {
